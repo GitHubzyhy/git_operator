@@ -52,10 +52,10 @@ in:description 小程序 fork:>100 pushed:>2019-11-15 language:vue
 ```
 
 特殊的查找资源小技巧-常用前缀后缀 
-• 找百科大全 awesome xxx
-• 找例子 xxx sample
-• 找空项目架子 xxx starter / xxx boilerplate 
-• 找教程  xxx tutorial
+• 找百科大全 awesome xxx <br>
+• 找例子 xxx sample<br>
+• 找空项目架子 xxx starter / xxx boilerplate <br>
+• 找教程  xxx tutorial<br>
 
 ***或使用高级搜索页搜索：**
 
